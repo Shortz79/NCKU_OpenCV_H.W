@@ -1,1 +1,11 @@
 # HomeWork 2
+- Camera Calibration
+  - 1.1 Coner detection
+  - 1.2 Find the instrinsic matrix
+  - 1.3 Find the exstrinsic matrix
+  - 1.4 Find the distortion matrix
+- AR
+- Background Substraction
+- Stereo
+  - 4.1 Find the disparity map/image
+  - 4.2 Left-right disparity check
