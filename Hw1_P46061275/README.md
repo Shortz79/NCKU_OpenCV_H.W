@@ -1,1 +1,13 @@
 # HomeWork 1
+- Basic
+  - 1.1 Read Image
+  - 1.2 RGB operation
+  - 1.3 Mirror image
+- Edge detection
+  - 2.1 Canny
+  - 2.2 Circle houge Transformation
+  - 2.3 Sobel
+- Geometric Transformation
+- Adaptive Threshold
+  - 4.1 Global threshold
+  - 4.2 Local threshold
