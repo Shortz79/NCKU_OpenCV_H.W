@@ -31,4 +31,4 @@
 - Continue by 2.1
 - Circle Hough Transform
 
-![](master/NCKU_OpenCV_H.W/Hw1_P46061275/hw1/2.2/eyehough55.jpg)
+![](master/hw1/2.2/eyehough55.jpg)
