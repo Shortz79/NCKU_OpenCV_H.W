@@ -19,6 +19,6 @@
 - Transfrom the picture into gray scale
 - Canny Edge Detection
 
-![](/Hw1_P46061275_游鎮藝_v1/eye.jpg)
+![](/Hw1_P46061275_%E6%B8%B8%E9%8E%AE%E8%97%9D_v1/eye.jpg)
 
 ![](https://github.com/Shortz79/NCKU_OpenCV_H.W/blob/main/Hw1_P46061275/Hw1_P46061275_%E6%B8%B8%E9%8E%AE%E8%97%9D_v1/eye.jpg)
