@@ -31,4 +31,15 @@
 - Continue by 2.1
 - Circle Hough Transform
 
-![](master/hw1/2.2/eyehough55.jpg)
+![](https://github.com/Shortz79/NCKU_OpenCV_H.W/blob/main/Hw1_P46061275/hw1/2.2/eyehough55.jpg)
+
+## Geometric Transformation
+
+- QRcode
+
+![](https://github.com/Shortz79/NCKU_OpenCV_H.W/blob/main/Hw1_P46061275/Hw1_P46061275_%E6%B8%B8%E9%8E%AE%E8%97%9D_v1/QrCode.jpg)
+
+- mouse click
+- warpPerspective
+
+![](https://github.com/Shortz79/NCKU_OpenCV_H.W/blob/main/Hw1_P46061275/hw1/3/QRcodetran.jpg)
