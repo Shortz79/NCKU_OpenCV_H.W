@@ -11,3 +11,11 @@
 - Adaptive Threshold
   - 4.1 Global threshold
   - 4.2 Local threshold
+
+## Edge Detection
+
+### 2.1 Canny
+
+- Transfrom the picture into gray scale
+- Canny Edge Detection
+![](/eye.jpg)
