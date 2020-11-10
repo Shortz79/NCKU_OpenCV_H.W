@@ -19,5 +19,7 @@
 ![](https://github.com/Shortz79/NCKU_OpenCV_H.W/blob/main/Hw1_P46061275/Hw1_P46061275_%E6%B8%B8%E9%8E%AE%E8%97%9D_v1/eye.jpg)
 
 - Transfrom the picture into gray scale
-![/hw1/2.1/eyesmooth55]
+
+![](/hw1/2.1/eyesmooth55)
+
 - Canny Edge Detection
