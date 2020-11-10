@@ -18,4 +18,4 @@
 
 - Transfrom the picture into gray scale
 - Canny Edge Detection
-![](/eye.jpg)
+![](/Hw1_P46061275_游鎮藝_v1/eye.jpg)
