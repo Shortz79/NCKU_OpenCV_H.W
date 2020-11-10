@@ -20,6 +20,6 @@
 
 - Transfrom the picture into gray scale
 
-![]("/hw1/2.1/eyesmooth55")
+![]("hw1/2.1/eyesmooth55")
 
 - Canny Edge Detection
