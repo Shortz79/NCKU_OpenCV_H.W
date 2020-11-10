@@ -20,12 +20,14 @@
 
 - Transfrom the picture into gray scale
 - Using Gaussian Smooth
+
 ![](https://github.com/Shortz79/NCKU_OpenCV_H.W/blob/main/Hw1_P46061275/hw1/2.1/eyesmooth55.jpg)
 - Canny Edge Detection
+
 ![](https://github.com/Shortz79/NCKU_OpenCV_H.W/blob/main/Hw1_P46061275/hw1/2.1/eyeedge55.jpg)
 
 ### 2.2 Circle houge Transformation
 
 - Continue by 2.1
 - Circle Hough Transform
-![](NCKU_OpenCV_H.W/Hw1_P46061275/hw1/2.2/eyehough55.jpg)
+![](/NCKU_OpenCV_H.W/Hw1_P46061275/hw1/2.2/eyehough55.jpg)
